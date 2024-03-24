@@ -1,10 +1,12 @@
 ![Description](https://i.ibb.co/s69ztcd/Screenshot-2024-03-24-214700.png)
+![Description](https://i.ibb.co/P5kZ39W/1231321312.png)
+
 
 
 # nationwide-greggs-costa-FiveM
 I have edited 3 of the building across the road from Legion Sq. 
 
-- Nationwide
+- Nationwide | Inside has not been completed yet. 
 - Greggs
 - Costa Coffee
 
